@@ -1,5 +1,5 @@
 this devop class
 {
-	today class confict
+	today class confict(hello mod)
 
 }
