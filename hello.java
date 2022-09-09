@@ -1,5 +1,5 @@
-this devop class
-{
-	today class confict(hello mod)
+this devop class     #from dev1
+
+	today class confict(hello mod)     #from dev2
 
 }
